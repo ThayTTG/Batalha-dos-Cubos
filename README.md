@@ -3,7 +3,7 @@
 Um jogo 2D, Arcade, PvP dinâmico
 
 ---
-### Detalhes de Atualização:
+### [Detalhes de Atualização](https://github.com/ThayTTG/Batalha-dos-Cubos/tree/main):
 (04.Set.25)
 
 A partir de hoje, iremos incluir todas as atualizações aqui para que fiquemos ciêntes das mudanças mais recentes. Fiquem atentos!
