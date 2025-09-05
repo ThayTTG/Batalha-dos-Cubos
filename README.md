@@ -5,7 +5,7 @@ A "Batalha dos Cubos" é separada em duas fases, que são: _fase de coleta_ e a 
 
 ---
 ### Onde posso jogar? 🎮
-_Atualmente o jogo ainda não está disponível para o publico, mas planejo postá-lo em plataformas como Steam e Google Playstore, além de ser possível baixar o [arquivo .c3p](https://drive.google.com/file/d/1s9J9ExDqJZYOBZiWFSCQe7IwOo2-3oQ3/view?usp=drive_link) do estado atual do jogo._
+_Atualmente o jogo ainda não está finalizado, mas planejo postá-lo em plataformas como Steam e Google Playstore. Além disso, é possível baixar o [arquivo .c3p](https://drive.google.com/file/d/1s9J9ExDqJZYOBZiWFSCQe7IwOo2-3oQ3/view?usp=drive_link) do estado atual do jogo (sujeito a bugs e erros)._
 
 ---
 ### Detalhes do Game 📚
