@@ -1,7 +1,7 @@
 ## Batalha dos Cubos - Que o melhor jogador vença!
 
 ### Como Funciona? ℹ️
-A "Batalha dos Cubos" é separada em duas fases, que são: _fase de coleta_ e a _fase de batalha_. Na primeira fase os jogadores devem coletar o máximo de pontos e atrapalhar seus oponentes com seus Disparos de barreira, que empurram-nos até o fim do corredor. Quando o temporizador acabar, a batalha se inicia! Usando seus pontos coletados e Disparos, você deve prensar seus oponentes contra o mapa (ou sí próprio 👀). Quem sobreviver, terá a vitória certa! 🎉
+A "Batalha dos Cubos" é separada em duas fases, que são: _fase de coleta_ e a _fase de batalha_. Na primeira fase os jogadores devem coletar o máximo de pontos e atrapalhar seus oponentes com seus Disparos de barreira, que empurram-nos até o final do corredor. Quando o temporizador acabar, a batalha se inicia! Usando seus pontos e disparos, você deve evitar sofrer dano e prensar seus oponentes contra o mapa (ou sí próprio 👀). Quem sobreviver, terá a vitória certa! 🎉
 
 ---
 ### Onde posso jogar? 🎮
